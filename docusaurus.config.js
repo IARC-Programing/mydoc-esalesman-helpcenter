@@ -1,8 +1,8 @@
 module.exports = {
   title: 'E-Salesman Help Center',
   tagline: 'ศูนย์ช่วยเหลือระบบ E-Salesman',
-  url: 'http://esalesman.net',
-  baseUrl: 'helpcenter/',
+ url: 'https://esalesman.net',
+  baseUrl: '/helpcenter/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon-esalesman.png',
   organizationName: 'facebook', // Usually your GitHub org/user name.
