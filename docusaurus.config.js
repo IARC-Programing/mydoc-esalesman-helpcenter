@@ -1,7 +1,7 @@
 module.exports = {
   title: 'E-Salesman Help Center',
   tagline: 'ศูนย์ช่วยเหลือระบบ E-Salesman',
-  url: 'https://esalesman.net',
+  url: 'http://esalesman.net',
   baseUrl: 'helpcenter/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon-esalesman.png',
