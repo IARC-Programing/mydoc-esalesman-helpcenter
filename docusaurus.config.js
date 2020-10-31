@@ -1,7 +1,7 @@
 module.exports = {
   title: 'E-Salesman Help Center',
   tagline: 'ศูนย์ช่วยเหลือระบบ E-Salesman',
- url: 'https://esalesman.net',
+  url: 'https://esalesman.net',
   baseUrl: '/helpcenter/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon-esalesman.png',
@@ -86,8 +86,8 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+          // editUrl:
+          //   'https://github.com/facebook/docusaurus/edit/master/website/',
         },
         blog: {
           showReadingTime: true,
