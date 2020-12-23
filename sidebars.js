@@ -7,6 +7,6 @@ module.exports = {
       'revenuerequest',
       'question',
     ],
-    นโยบาย: ['policy', 'condition', 'contact'],
+    นโยบาย: ['policy', 'condition', 'cookies', 'removedata', 'contact'],
   },
 }
